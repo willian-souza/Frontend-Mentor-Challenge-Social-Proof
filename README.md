@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-using-css-grid-and-flexbox-nn2KdZKtP)
-- [Live Site URL](https://willian-souza.github.io/Frontend-Mentor-Challenge-Four-Card-Feature/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-using-css-grid-and-flexbox-ZfRV5oDlv)
+- [Live Site URL](https://willian-souza.github.io/Frontend-Mentor-Challenge-Social-Proof/)
 ---
 # 🖥 Built with
 
